@@ -1,0 +1,16 @@
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\XUnitTestProjectDti.deps.json
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\XUnitTestProjectDti.runtimeconfig.json
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\XUnitTestProjectDti.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\XUnitTestProjectDti.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\XUnitTestProjectDti.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\obj\Debug\netcoreapp2.2\XUnitTestProjectDti.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\obj\Debug\netcoreapp2.2\XUnitTestProjectDti.AssemblyInfo.cs
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\obj\Debug\netcoreapp2.2\XUnitTestProjectDti.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\obj\Debug\netcoreapp2.2\XUnitTestProjectDti.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\TesteDtiEntidade.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\bin\Debug\netcoreapp2.2\TesteDtiEntidade.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\obj\Debug\netcoreapp2.2\XUnitTestProjectDti.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\TesteDtiApiRest\XUnitTestProjectDti\obj\Debug\netcoreapp2.2\XUnitTestProjectDti.csproj.CopyComplete

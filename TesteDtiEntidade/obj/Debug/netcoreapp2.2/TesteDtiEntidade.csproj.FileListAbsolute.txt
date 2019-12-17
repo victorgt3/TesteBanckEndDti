@@ -1,0 +1,8 @@
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\bin\Debug\netcoreapp2.2\TesteDtiEntidade.deps.json
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\bin\Debug\netcoreapp2.2\TesteDtiEntidade.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\bin\Debug\netcoreapp2.2\TesteDtiEntidade.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\obj\Debug\netcoreapp2.2\TesteDtiEntidade.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\obj\Debug\netcoreapp2.2\TesteDtiEntidade.AssemblyInfo.cs
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\obj\Debug\netcoreapp2.2\TesteDtiEntidade.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\obj\Debug\netcoreapp2.2\TesteDtiEntidade.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiEntidade\obj\Debug\netcoreapp2.2\TesteDtiEntidade.csprojAssemblyReference.cache

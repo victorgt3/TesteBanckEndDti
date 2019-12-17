@@ -1,0 +1,11 @@
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\bin\Debug\netcoreapp2.2\TesteDtiRepository.deps.json
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\bin\Debug\netcoreapp2.2\TesteDtiRepository.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\bin\Debug\netcoreapp2.2\TesteDtiRepository.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\obj\Debug\netcoreapp2.2\TesteDtiRepository.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\obj\Debug\netcoreapp2.2\TesteDtiRepository.AssemblyInfo.cs
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\obj\Debug\netcoreapp2.2\TesteDtiRepository.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\obj\Debug\netcoreapp2.2\TesteDtiRepository.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\bin\Debug\netcoreapp2.2\TesteDtiEntidade.dll
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\bin\Debug\netcoreapp2.2\TesteDtiEntidade.pdb
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\obj\Debug\netcoreapp2.2\TesteDtiRepository.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\TesteDtiApiRest\TesteDtiRepository\obj\Debug\netcoreapp2.2\TesteDtiRepository.csproj.CopyComplete
